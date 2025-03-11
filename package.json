@@ -1,0 +1,15 @@
+{
+  "name": "system-design-learning",
+  "version": "1.0.0",
+  "description": "Concepts on HLD and LLD",
+  "main": "consistent-hashing.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
